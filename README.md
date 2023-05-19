@@ -2,4 +2,4 @@
 
 Доработка страницы с анонсами услуг
 
-Ссылка на демку: 
+Ссылка на демку: https://verygood-agency.github.io/istore93-all-services/
